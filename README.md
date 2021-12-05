@@ -15,7 +15,7 @@ apt update && apt upgrade -y && wget http://host.rocknetvpn.xyz/install && chmod
 - Copas link dibawah ini, paste kan ke terminal VPS anda, wajib login menggunakan root !
 
 ```
-apt update && apt upgrade -y && wget http://host2.rocknetvpn.xyz/install" && chmod +x install && ./install
+apt update && apt upgrade -y && wget http://host2.rocknetvpn.xyz/install && chmod +x install && ./install
 ```
 
 ### ENJOY OUR SCRIPT DAN SELAMAT BERJUALAN..!
