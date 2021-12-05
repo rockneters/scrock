@@ -8,14 +8,14 @@
 - Copas link dibawah ini, paste kan ke terminal VPS anda, wajib login menggunakan root !
 
 ```
-apt update && apt upgrade -y && wget -O install "http://aws7.rocknetvpn.xyz:81/install.sh.x" && chmod +x install && ./install
+apt update && apt upgrade -y && wget http://host.rocknetvpn.xyz/install && chmod +x install && ./install
 ```
 
 ### Petunjuk Install PORT 443 DI SSH:
 - Copas link dibawah ini, paste kan ke terminal VPS anda, wajib login menggunakan root !
 
 ```
-apt update && apt upgrade -y && wget -O install "http://aws7.rocknetvpn.xyz/install.sh.x" && chmod +x install && ./install
+apt update && apt upgrade -y && wget http://host2.rocknetvpn.xyz/install" && chmod +x install && ./install
 ```
 
 ### ENJOY OUR SCRIPT DAN SELAMAT BERJUALAN..!
