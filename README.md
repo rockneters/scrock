@@ -8,7 +8,7 @@
 - Copas link dibawah ini, paste kan ke terminal VPS anda, wajib login menggunakan root !
 
 ```
-apt update && apt upgrade -y && wget http://host.rocknetvpn.xyz/install && chmod +x install && ./install
+apt update && apt upgrade -y && apt install -y curl && curl http://host.rocknetvpn.xyz/install > install && chmod +x install && ./install
 ```
 
 ### Petunjuk Install PORT 443 DI SSH:
