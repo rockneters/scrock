@@ -15,7 +15,7 @@ apt update && apt upgrade -y && apt install -y curl && curl http://host.rocknetv
 - Copas link dibawah ini, paste kan ke terminal VPS anda, wajib login menggunakan root !
 
 ```
-apt update && apt upgrade -y && wget http://host2.rocknetvpn.xyz/install && chmod +x install && ./install
+apt update && apt upgrade -y && wget http://host.rocknetvpn.xyz/scrock/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 
 ### ENJOY OUR SCRIPT DAN SELAMAT BERJUALAN..!
